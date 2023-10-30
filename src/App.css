@@ -1,0 +1,42 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+/* Style container */
+div {
+  padding: 20px;
+  text-align: center;
+}
+
+/* Style for the button */
+button {
+  background-color: #6f6f6f;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  margin-top: 10px;
+  border-radius: 4px;
+}
+
+button:hover {
+  background-color: #242424;
+}
+
+/* style image */
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+/*style name*/
+h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 16px;
+}
